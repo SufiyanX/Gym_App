@@ -29,8 +29,10 @@
 <br></br>
 <h3>Exercise Details Page</h3>
 ![Screenshot 2023-11-08 113255](https://github.com/SufiyanX/Gym_App/assets/122789582/8b8ceb28-0369-4cd7-a2ea-6438b38bbd8a)
+
 <br></br>
 ![Screenshot 2023-11-08 113323](https://github.com/SufiyanX/Gym_App/assets/122789582/b1910018-3a3e-45f7-8f18-faec9f7f011a)
+
 <br></br>
 <br></br>
 <h3>Responsive Design</h3>
