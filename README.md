@@ -28,17 +28,14 @@
 ![Screenshot 2023-11-08 113219](https://github.com/SufiyanX/Gym_App/assets/122789582/3f0ab1eb-7daa-42d3-bf4f-d6a1d1e9e8fa)
 <br></br>
 <br></br>
-<b>
-Exercise Details Page
-</b>
+<b>Exercise Details Page</b>
 <br></br>
 ![Screenshot 2023-11-08 113255](https://github.com/SufiyanX/Gym_App/assets/122789582/bb46fc6c-7c23-4a90-90f5-09f6b5a2e691)
 <br></br>
 ![Screenshot 2023-11-08 113323](https://github.com/SufiyanX/Gym_App/assets/122789582/b1910018-3a3e-45f7-8f18-faec9f7f011a)
 <br></br>
 <br></br>
-<br></br>
-Responsive Design
+<b>Responsive Design</b>
 <br></br>
 ![Screenshot 2023-11-08 123927](https://github.com/SufiyanX/Gym_App/assets/122789582/f552df98-9a03-42b1-909e-7e02eee0bed6)
 <br></br>
@@ -47,6 +44,8 @@ Responsive Design
 ![Screenshot 2023-11-08 124029](https://github.com/SufiyanX/Gym_App/assets/122789582/bc82c519-577a-4320-b54a-4a9ccfec2910)
 <br></br>
 ![Screenshot 2023-11-08 124101](https://github.com/SufiyanX/Gym_App/assets/122789582/79a77707-f358-4a20-952d-3c7e51381cfb)
+<br></br>
+<b>Exercise Details Page</b>
 <br></br>
 ![Screenshot 2023-11-08 124125](https://github.com/SufiyanX/Gym_App/assets/122789582/508da782-3059-407a-9e22-3579463852b4)
 <br></br>
