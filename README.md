@@ -31,7 +31,6 @@
 ![Screenshot 2023-11-08 113255](https://github.com/SufiyanX/Gym_App/assets/122789582/bb46fc6c-7c23-4a90-90f5-09f6b5a2e691)
 <br></br>
 ![Screenshot 2023-11-08 113323](https://github.com/SufiyanX/Gym_App/assets/122789582/b1910018-3a3e-45f7-8f18-faec9f7f011a)
-
 <br></br>
 <br></br>
 <h3>Responsive Design</h3>
