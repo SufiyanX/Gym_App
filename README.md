@@ -27,7 +27,10 @@
 <br></br>
 ![Screenshot 2023-11-08 113219](https://github.com/SufiyanX/Gym_App/assets/122789582/3f0ab1eb-7daa-42d3-bf4f-d6a1d1e9e8fa)
 <br></br>
+<br></br>
+<b>
 Exercise Details Page
+</b>
 <br></br>
 ![Screenshot 2023-11-08 113255](https://github.com/SufiyanX/Gym_App/assets/122789582/bb46fc6c-7c23-4a90-90f5-09f6b5a2e691)
 <br></br>
