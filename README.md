@@ -1,5 +1,5 @@
 <h1>Gym Workout App</h1>
-<p style={{fontSize:"15px"}}>
+<p style={{fontSize:"18px"}}>
   This is a React app that provides information about gym exercises, home workouts, and cardio exercises. Users can browse and search for exercises, view details, and watch related YouTube videos.
 </p>
 
