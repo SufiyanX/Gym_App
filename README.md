@@ -17,3 +17,5 @@
         <li>RapidAPI (for fetching exercise data)</li>
         <li>YouTube API (for fetching related videos)</li>
     </ul>
+
+![Screenshot 2023-11-08 113058](https://github.com/SufiyanX/Gym_App/assets/122789582/c5483823-d555-42a9-a56a-ae899d2d71eb)
