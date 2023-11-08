@@ -1,4 +1,4 @@
-Gym Workout App
+<h1>Gym Workout App</h1>
 This is a React app that provides information about gym exercises, home workouts, and cardio exercises. Users can browse and search for exercises, view details, and watch related YouTube videos.
 
 Features
