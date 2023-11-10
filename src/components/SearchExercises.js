@@ -2,10 +2,12 @@ import React, { useState, useEffect } from "react";
 import { Box, Button, Stack, TextField, Typography } from "@mui/material";
 import { exerciseOptions, fetchData } from "../utils/fetchData";
 import HorizontalScrollbar from "./HorizontalScrollbar";
+import CircularProgress from "@mui/material/CircularProgress";
+
 
 const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
   const [search, setSearch] = useState("");
-
+const [loading, setLoading] = useState(false)
   const [bodyParts, setBodyParts] = useState([]);
 
   useEffect(() => {
@@ -22,6 +24,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
 
   const handleSearch = async () => {
     if (search) {
+      setLoading(true)
       const exercisesData = await fetchData(
         "https://exercisedb.p.rapidapi.com/exercises",
         exerciseOptions
@@ -36,8 +39,9 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
       );
       setSearch("");
       setExercises(searchedExercises);
-      window.scrollTo({ top: 1500, left: 100, behavior: "smooth" });
-    }
+      window.scrollTo({ top: 1500, left: 100, behavior: "smooth" }); 
+       setLoading(false)
+    } 
   };
 
   return (
@@ -100,6 +104,20 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
           setBodyPart={setBodyPart}
         />
       </Box>
+
+      {loading &&
+        <Box
+          sx={{
+            width: "100%",
+            height: "100%",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            mt: "50px",
+          }}
+        >
+          <CircularProgress />
+        </Box>}
     </Stack>
   );
 };
